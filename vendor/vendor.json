@@ -1,0 +1,1187 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "vDqMLzkK2+wktAd6doCKOE9V3aU=",
+			"origin": "github.com/containers/storage/vendor/github.com/BurntSushi/toml",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "zTn0jzjOiJlScR1px66MvrgrlLs=",
+			"origin": "github.com/containers/storage/vendor/github.com/Microsoft/go-winio",
+			"path": "github.com/Microsoft/go-winio",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "PK4MiB4Yjvh+WBusgvz8EC56UNc=",
+			"origin": "github.com/containers/storage/vendor/github.com/Microsoft/go-winio/archive/tar",
+			"path": "github.com/Microsoft/go-winio/archive/tar",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "0junnLa/ZWkv/drL5vIDLlOR4wI=",
+			"origin": "github.com/containers/storage/vendor/github.com/Microsoft/go-winio/backuptar",
+			"path": "github.com/Microsoft/go-winio/backuptar",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "4mwolhrxPRFPBaXnyflxF4j3hew=",
+			"origin": "github.com/containers/storage/vendor/github.com/Microsoft/hcsshim",
+			"path": "github.com/Microsoft/hcsshim",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "GqIrOttKaO7k6HIaHQLPr3cY7rY=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containerd/continuity/pathdriver",
+			"path": "github.com/containerd/continuity/pathdriver",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "JyLCopudWVhTl9tVNondURUw3sk=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/libcni",
+			"path": "github.com/containernetworking/cni/libcni",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Kh/msV2XTuYy0UB63hhoKcKfkyY=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/pkg/invoke",
+			"path": "github.com/containernetworking/cni/pkg/invoke",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Sfdjk2zzDd0npAjZdULWjWoKVkQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/pkg/types",
+			"path": "github.com/containernetworking/cni/pkg/types",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "lmLYXYR/twmBu+6U678QNF+BQlQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/pkg/types/020",
+			"path": "github.com/containernetworking/cni/pkg/types/020",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "r6qX7lyz4pweijiXjWMcxvm4wQQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/pkg/types/current",
+			"path": "github.com/containernetworking/cni/pkg/types/current",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Y9KLxL9fFDnFHaDGOUfDkcbyV0U=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containernetworking/cni/pkg/version",
+			"path": "github.com/containernetworking/cni/pkg/version",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "MDdpuaWSAso4w6JpAm6eW++9Mzc=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/copy",
+			"path": "github.com/containers/image/copy",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "+MTO3mLEFTBfxEVxq4XgBBY2yiM=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/directory",
+			"path": "github.com/containers/image/directory",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "lS1eushOj9sDM6VKQN/DRZyM7bo=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/directory/explicitfilepath",
+			"path": "github.com/containers/image/directory/explicitfilepath",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "o054WxX0OUiLbBzZiOiVJ7Q0n6A=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker",
+			"path": "github.com/containers/image/docker",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "UHlLcJ35vrA4OtPCxMq+CZIB76o=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker/archive",
+			"path": "github.com/containers/image/docker/archive",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "s/GoVzTBYMFqVMLWClTmoOoNGbg=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker/daemon",
+			"path": "github.com/containers/image/docker/daemon",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "cz0QUelU9mCikmxdtnh6bU/US+8=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker/policyconfiguration",
+			"path": "github.com/containers/image/docker/policyconfiguration",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "FWVvfnXiXOof4WouyWjX+agM6ho=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker/reference",
+			"path": "github.com/containers/image/docker/reference",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Gl1EWW+kNzfxbD6g6+Vf+jPsdWk=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/docker/tarfile",
+			"path": "github.com/containers/image/docker/tarfile",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "KiPgwfh6UG4s9aDADdf28jRMYMo=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/image",
+			"path": "github.com/containers/image/image",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "PvhRH10PIaZYqcS2o83XwfCORdQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/internal/tmpdir",
+			"path": "github.com/containers/image/internal/tmpdir",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "loz/w+gEfAxcTfk+rrO9mIwT1Yw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/manifest",
+			"path": "github.com/containers/image/manifest",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Ch9yIw8t/1EjUy6oHiJ1L3qb188=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/oci/archive",
+			"path": "github.com/containers/image/oci/archive",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "srf+RxEtCZH2suTkWZfYG1gVRac=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/oci/internal",
+			"path": "github.com/containers/image/oci/internal",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "5TzdmLm8OPs2vI4V5w+dnxFqXgw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/oci/layout",
+			"path": "github.com/containers/image/oci/layout",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "T5EKJPFD3lrViPSxseDMj8HwR+g=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/openshift",
+			"path": "github.com/containers/image/openshift",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "6uU40YtZHfNDTR1K2nv/W+F8/2o=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/ostree",
+			"path": "github.com/containers/image/ostree",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "7w79jfdyhCjYCULuiuXy2JecFiA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/pkg/compression",
+			"path": "github.com/containers/image/pkg/compression",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "WiSDE0t+yha4KbaE/FrEy0c2CEo=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/pkg/docker/config",
+			"path": "github.com/containers/image/pkg/docker/config",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "fNFZg9/x0re9BJ1FCGqDHRrzuj4=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/pkg/strslice",
+			"path": "github.com/containers/image/pkg/strslice",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "uhcja3pfM/t4iuOPMkcFnYDEGow=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/pkg/sysregistries",
+			"path": "github.com/containers/image/pkg/sysregistries",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "jmnbg6iibCP+eQgKOZmr2iUKU5I=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/pkg/tlsclientconfig",
+			"path": "github.com/containers/image/pkg/tlsclientconfig",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Y1maNWqb/b9FSBhILOwS3c8T3uQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/signature",
+			"path": "github.com/containers/image/signature",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "nC3pciwh0FkaI/4Z2pnMUGPyY1E=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/storage",
+			"path": "github.com/containers/image/storage",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "KkHonjIT1s3nWFbVxw87d/mH4yU=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/tarball",
+			"path": "github.com/containers/image/tarball",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "SW9kmaHY5m+u6CkDtRg4Xt2O0Sg=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/transports",
+			"path": "github.com/containers/image/transports",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "e9HX/i4enWoF03rDzH/9iywsfWM=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/transports/alltransports",
+			"path": "github.com/containers/image/transports/alltransports",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "D+WJ2ERNy2RLCskdLRU66T4guQs=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/types",
+			"path": "github.com/containers/image/types",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "EVH52mGLjfEn3JwFappb7eyJlBo=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/image/version",
+			"path": "github.com/containers/image/version",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "ol/zxFynLVondE/pUtCBozJU/EY=",
+			"path": "github.com/containers/storage",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "zFjr8Wg88r4L/FU/CC7TdF7PduQ=",
+			"path": "github.com/containers/storage/drivers",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "iQK47DbGmYJfbySxjTXDZYKZoRU=",
+			"path": "github.com/containers/storage/drivers/aufs",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "JqvMqxNtaXuCdXsthYtZp+YQt6k=",
+			"path": "github.com/containers/storage/drivers/btrfs",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "cCe4A0D6lHcfb+xXFpKVyju8/Go=",
+			"path": "github.com/containers/storage/drivers/devmapper",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "/cFJxH871d3gIUBgHN7HqeXv0UU=",
+			"path": "github.com/containers/storage/drivers/overlay",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "mVpJOWd/H1ORxcIVxNgiHVoPgOs=",
+			"path": "github.com/containers/storage/drivers/overlayutils",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "+8UDO0nPUxnSFdnJvfvbOTqaBN0=",
+			"path": "github.com/containers/storage/drivers/quota",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "MtUY9fZki2J0KgPcCR56scpPjtA=",
+			"path": "github.com/containers/storage/drivers/register",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "dEDddFtMmncv8Ht+iScVEUBelJU=",
+			"path": "github.com/containers/storage/drivers/vfs",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "4aRSAJDBhTju3+hhrn8yT2JzQ3Q=",
+			"path": "github.com/containers/storage/drivers/windows",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "z7xhKtzn7DzBaiwbY83cglOhGPE=",
+			"path": "github.com/containers/storage/drivers/zfs",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "+CW7FLEQydEFJ4iT3kiMDUMJSYU=",
+			"path": "github.com/containers/storage/pkg/archive",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "qM/6q7TwQo6Uiphjyu3iQ85fqes=",
+			"path": "github.com/containers/storage/pkg/chrootarchive",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "oORyWmKWXqllSjaqYKbWYc8gyoQ=",
+			"path": "github.com/containers/storage/pkg/devicemapper",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "dTeiVdlyvEXvhqRSBiLCgoBJd18=",
+			"path": "github.com/containers/storage/pkg/directory",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "D9NU81VptkqR+QbLTNd7VufnRME=",
+			"path": "github.com/containers/storage/pkg/dmesg",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "Tr+QpysTxUO/p7CgZ3JrfJP2vkM=",
+			"path": "github.com/containers/storage/pkg/fileutils",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "jdcnJNL28286OgvW7ZndK6lwPKU=",
+			"path": "github.com/containers/storage/pkg/fsutils",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "st7lMrSUI8q0tW0wkjuhdhqeeJc=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/containers/storage/pkg/homedir",
+			"path": "github.com/containers/storage/pkg/homedir",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "F3td4dtK2Z5Fipgb93N7CarnGks=",
+			"path": "github.com/containers/storage/pkg/idtools",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "U7Gja/ALKr1qRHfchp9UHyLLhBE=",
+			"path": "github.com/containers/storage/pkg/ioutils",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "nz/2JPOYJfxVcLwWVX84f1tgLfU=",
+			"path": "github.com/containers/storage/pkg/locker",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "x0eNW10n56EvqgDAW13YqNKqvR4=",
+			"path": "github.com/containers/storage/pkg/longpath",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "FHwhvCdJuEi7JTFNw+mO8s7+AAs=",
+			"path": "github.com/containers/storage/pkg/loopback",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "1Kg5f8T3IMTN5dLrdHzfLAFbrB0=",
+			"path": "github.com/containers/storage/pkg/mount",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "CsH5Ip+vQCkAXdGVXQtSfrOs3d4=",
+			"path": "github.com/containers/storage/pkg/parsers",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "7PUQiczSjvHTh+FuxPPFXTNmj/M=",
+			"path": "github.com/containers/storage/pkg/parsers/kernel",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "6dfoCpPTZmGQYKxGv/kvj/wsAhQ=",
+			"path": "github.com/containers/storage/pkg/pools",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "X2gFk7ogOPHSg+k74BfLdU7m16Y=",
+			"path": "github.com/containers/storage/pkg/promise",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "w6XiI3dW0+sXNtMY1qHwdjfpvls=",
+			"path": "github.com/containers/storage/pkg/reexec",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "rUEDI5/oAqOkUC3paQIgHtRwFNQ=",
+			"path": "github.com/containers/storage/pkg/stringid",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "l5PqFil1yhnWFExcxCLu2w2c87U=",
+			"path": "github.com/containers/storage/pkg/system",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "yU08NxhKQc28Xw4+Y0TusRjK4Yg=",
+			"path": "github.com/containers/storage/pkg/truncindex",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "je2SUpKP4rZR5hpk1VidpPYGUWA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/cri-o/ocicni/pkg/ocicni",
+			"path": "github.com/cri-o/ocicni/pkg/ocicni",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "L6XAHEoSIvm4WXgSTOxTSXAWMmI=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution",
+			"path": "github.com/docker/distribution",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "vR3OFqsUoFU+iKwsY/Atwhg2viw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/context",
+			"path": "github.com/docker/distribution/context",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Gj+xR1VgFKKmFXYOJMnAczC3Znk=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/digestset",
+			"path": "github.com/docker/distribution/digestset",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "2Fe4D6PGaVE2he4fUeenLmhC1lE=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/reference",
+			"path": "github.com/docker/distribution/reference",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "ClxxEM8HAe3DrneFwpUoIgoW+XA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/api/errcode",
+			"path": "github.com/docker/distribution/registry/api/errcode",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "CHRTCAnb/ckfajnYUpHU+MSU4hs=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/api/v2",
+			"path": "github.com/docker/distribution/registry/api/v2",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "bboRlZwutEcbwFzwG0lNTXm7yeE=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/client",
+			"path": "github.com/docker/distribution/registry/client",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "HT3SwoOQunakEwoxg6rAvy94aLs=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/client/auth/challenge",
+			"path": "github.com/docker/distribution/registry/client/auth/challenge",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "KjpG7FYMU5ugtc/fTfL1YqhdaV4=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/client/transport",
+			"path": "github.com/docker/distribution/registry/client/transport",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "j6m+IGlpcUSRrfVXHtZifksD+ag=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/storage/cache",
+			"path": "github.com/docker/distribution/registry/storage/cache",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Ckk6FOW4ZCVZ30Y+Cmlv9k8t9OU=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/registry/storage/cache/memory",
+			"path": "github.com/docker/distribution/registry/storage/cache/memory",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "cNp7rNReJHvdSfrIetXS9RGsLSo=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/distribution/uuid",
+			"path": "github.com/docker/distribution/uuid",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "zcDmNPSzI1wVokOiHis5+JSg2Rk=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker-credential-helpers/client",
+			"path": "github.com/docker/docker-credential-helpers/client",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "4u6EMQqD1zIqOHp76zQFLVH5V8U=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker-credential-helpers/credentials",
+			"path": "github.com/docker/docker-credential-helpers/credentials",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "jXzatOrpvF09zviII9a9jNJ0niU=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api",
+			"path": "github.com/docker/docker/api",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "HoN/78ovv3/DC+kDKF7IENEc40g=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types",
+			"path": "github.com/docker/docker/api/types",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "jVJDbe0IcyjoKc2xbohwzQr+FF0=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/blkiodev",
+			"path": "github.com/docker/docker/api/types/blkiodev",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "uhgObLWZ3XZE8mdf6ovciqBgljQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/container",
+			"path": "github.com/docker/docker/api/types/container",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "XDP7i6sMYGnUKeFzgt+mFBJwjjw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/events",
+			"path": "github.com/docker/docker/api/types/events",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "S4SWOa0XduRd8ene8Alwih2Nwcw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/filters",
+			"path": "github.com/docker/docker/api/types/filters",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "yeB781yxPhnN6OXQ9/qSsyih3ek=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/image",
+			"path": "github.com/docker/docker/api/types/image",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "uJeLBKpHZXP+bWhXP4HhpyUTWYI=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/mount",
+			"path": "github.com/docker/docker/api/types/mount",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Gskp+nvbVe8Gk1xPLHylZvNmqTg=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/network",
+			"path": "github.com/docker/docker/api/types/network",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "r2vWq7Uc3ExKzMqYgH0b4AKjLKY=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/registry",
+			"path": "github.com/docker/docker/api/types/registry",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "VTxWyFud/RedrpllGdQonVtGM/A=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/strslice",
+			"path": "github.com/docker/docker/api/types/strslice",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Q0U3queMsCw+rPPztXnRHwAxQEc=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/swarm",
+			"path": "github.com/docker/docker/api/types/swarm",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "mi8EDCDjtrZEONRXPG7VHJosDwY=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/swarm/runtime",
+			"path": "github.com/docker/docker/api/types/swarm/runtime",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "77axKFOjRx1nGrzIggGXfTxUYVQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/time",
+			"path": "github.com/docker/docker/api/types/time",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "uDPQ3nHsrvGQc9tg/J9OSC4N5dQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/versions",
+			"path": "github.com/docker/docker/api/types/versions",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "IBJy2zPEnYmcFJ3lM1eiRWnCxTA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/api/types/volume",
+			"path": "github.com/docker/docker/api/types/volume",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "yeXlQUvoOI9OE0DmBAcL3NBNLF8=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/client",
+			"path": "github.com/docker/docker/client",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "OSFbrnYeBqJzNJ5CsHzQpfCzpR0=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/pkg/homedir",
+			"path": "github.com/docker/docker/pkg/homedir",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "yOye880NsHuCiDUcLakROyBKZOI=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/pkg/idtools",
+			"path": "github.com/docker/docker/pkg/idtools",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "9l2hXMbw1TDwkwRd+tvcORNdZ8k=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/pkg/mount",
+			"path": "github.com/docker/docker/pkg/mount",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "1UVhnoqiLosrWrs2QfOhHvdH/Xs=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/docker/pkg/system",
+			"path": "github.com/docker/docker/pkg/system",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "JbiWTzH699Sqz25XmDlsARpMN9w=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/go-connections/nat",
+			"path": "github.com/docker/go-connections/nat",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "jUfDG3VQsA2UZHvvIXncgiddpYA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/go-connections/sockets",
+			"path": "github.com/docker/go-connections/sockets",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "c6lDGNwTm5mYq18IHP+lqYpk8xU=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/go-connections/tlsconfig",
+			"path": "github.com/docker/go-connections/tlsconfig",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "/lW9matMszO1TaZ2dD4+uUo8oFY=",
+			"origin": "github.com/containers/storage/vendor/github.com/docker/go-units",
+			"path": "github.com/docker/go-units",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "rnC0C9oCTH8V2lkUtcdtw/naL7k=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/docker/libtrust",
+			"path": "github.com/docker/libtrust",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "2g703d4jlOXPSd6/l8AT0WKuhV8=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/fsnotify/fsnotify",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "muGVyM8mY3/gcap6kr4Ib3F5Xn4=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/ghodss/yaml",
+			"path": "github.com/ghodss/yaml",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "wEaGhH2v4/I/nbbyn7Bxwlexokw=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/gogo/protobuf/proto",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "iIUYZyoanCQQTUaWsu8b+iOSPt4=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/gorilla/context",
+			"path": "github.com/gorilla/context",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "F5dR3/i70EhSIMZfeIV+H8/PtvM=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/gorilla/mux",
+			"path": "github.com/gorilla/mux",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "qFc5hUAQClCrIDATYcsAeEUqySM=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/imdario/mergo",
+			"path": "github.com/imdario/mergo",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "DdH3xAkzAWJ4B/LGYJyCeRsly2I=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/mattn/go-runewidth",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "MTNooLrL9mXWrOBoy1WhMBrTDT0=",
+			"origin": "github.com/containers/storage/vendor/github.com/mattn/go-shellwords",
+			"path": "github.com/mattn/go-shellwords",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "D+PQxIqT0zr2f2iXUJJ/YpkAaeQ=",
+			"origin": "github.com/containers/storage/vendor/github.com/mistifyio/go-zfs",
+			"path": "github.com/mistifyio/go-zfs",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "f0GQLEbLQjuXMGwkYdHEdsFS5BA=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/mtrmac/gpgme",
+			"path": "github.com/mtrmac/gpgme",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "gNix1CLhQ/ceOgFLR/SJVW3otFE=",
+			"origin": "github.com/containers/storage/vendor/github.com/opencontainers/go-digest",
+			"path": "github.com/opencontainers/go-digest",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "F2MFwOo4oe910AxVwVY5uGrh4SE=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/opencontainers/image-spec/specs-go",
+			"path": "github.com/opencontainers/image-spec/specs-go",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "jdbXRRzeu0njLE9/nCEZG+Yg/Jk=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/opencontainers/image-spec/specs-go/v1",
+			"path": "github.com/opencontainers/image-spec/specs-go/v1",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Ssz9STAL5P2+1poiM63klFjhqhE=",
+			"origin": "github.com/containers/storage/vendor/github.com/opencontainers/runc/libcontainer/system",
+			"path": "github.com/opencontainers/runc/libcontainer/system",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "+a9t9zVLTA0nc4uG+nhkeu2adWE=",
+			"origin": "github.com/containers/storage/vendor/github.com/opencontainers/runc/libcontainer/user",
+			"path": "github.com/opencontainers/runc/libcontainer/user",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "AMYc2X2O/IL6EGrq6lTl5vEhLiY=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/opencontainers/runtime-spec/specs-go",
+			"path": "github.com/opencontainers/runtime-spec/specs-go",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "j9efF9bPmCCag+LzqwjyB8a44B8=",
+			"origin": "github.com/containers/storage/vendor/github.com/opencontainers/selinux/go-selinux",
+			"path": "github.com/opencontainers/selinux/go-selinux",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "QbeVoKIoaJWZDH8V/588i8/Pjjs=",
+			"origin": "github.com/containers/storage/vendor/github.com/opencontainers/selinux/go-selinux/label",
+			"path": "github.com/opencontainers/selinux/go-selinux/label",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "FKS5xkyA71Q3LliuEtgHuN2/piQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/ostreedev/ostree-go/pkg/glibobject",
+			"path": "github.com/ostreedev/ostree-go/pkg/glibobject",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "KUHrPDPOGyLPIXYxifLnntUMv3Q=",
+			"origin": "github.com/projectatomic/libpod/vendor/github.com/ostreedev/ostree-go/pkg/otbuiltin",
+			"path": "github.com/ostreedev/ostree-go/pkg/otbuiltin",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "E/0iMcuSif+ATop0rHA1jhgXQkU=",
+			"origin": "github.com/containers/storage/vendor/github.com/pborman/uuid",
+			"path": "github.com/pborman/uuid",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "sH8HKTy0tpINLVO04UXf37zYu4M=",
+			"origin": "github.com/containers/storage/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "ybqwzlkvdLn7908OGAsa/H6d3CE=",
+			"origin": "github.com/containers/storage/vendor/github.com/pquerna/ffjson/fflib/v1",
+			"path": "github.com/pquerna/ffjson/fflib/v1",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "iZHmHPBzKJiS6ROUaVOf4DVOhbA=",
+			"origin": "github.com/containers/storage/vendor/github.com/pquerna/ffjson/fflib/v1/internal",
+			"path": "github.com/pquerna/ffjson/fflib/v1/internal",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "2lBg1TGAyyos/MUaiSxw5NtfeP0=",
+			"path": "github.com/projectatomic/libpod/libpod/common",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "sNnPxDHBwPXEV1F+04X0cioS1Eo=",
+			"path": "github.com/projectatomic/libpod/libpod/driver",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "M9wksJJ+5hnjFI7HC6cj1636Vfo=",
+			"path": "github.com/projectatomic/libpod/libpod/image",
+			"revision": "3f5da4d0dd04f755f9a46f93d59f2db58285436b",
+			"revisionTime": "2018-03-23T15:22:48Z"
+		},
+		{
+			"checksumSHA1": "hGMfNKmBW/PSLN42vthZD2LKLzY=",
+			"path": "github.com/projectatomic/libpod/pkg/inspect",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "FYWEWot6yKLl1G5zo7FKbHEI+uY=",
+			"path": "github.com/projectatomic/libpod/pkg/util",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "qhdXyUM/JKNOaX/hVKS39pRX96c=",
+			"origin": "github.com/containers/storage/vendor/github.com/sirupsen/logrus",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "AHk1Y+L/rkf1jKAmqttDefEWeJw=",
+			"origin": "github.com/containers/storage/vendor/github.com/tchap/go-patricia/patricia",
+			"path": "github.com/tchap/go-patricia/patricia",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "xMhZY52HabUCN/3v3xkP/w3bYsc=",
+			"origin": "github.com/containers/storage/vendor/github.com/vbatts/tar-split/archive/tar",
+			"path": "github.com/vbatts/tar-split/archive/tar",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "tGDm/6EA4xM3PSPQziD0uRWmMXQ=",
+			"origin": "github.com/containers/storage/vendor/github.com/vbatts/tar-split/tar/asm",
+			"path": "github.com/vbatts/tar-split/tar/asm",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "Cu5bXApv9vuX7Ar2zEgAXX8EIKA=",
+			"origin": "github.com/containers/storage/vendor/github.com/vbatts/tar-split/tar/storage",
+			"path": "github.com/vbatts/tar-split/tar/storage",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "TT1rac6kpQp2vz24m5yDGUNQ/QQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/cast5",
+			"path": "golang.org/x/crypto/cast5",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "T0sFNhoMfuUyXVImEhkNAE+TB2E=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp",
+			"path": "golang.org/x/crypto/openpgp",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "olOKkhrdkYQHZ0lf1orrFQPQrv4=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp/armor",
+			"path": "golang.org/x/crypto/openpgp/armor",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "eo/KtdjieJQXH7Qy+faXFcF70ME=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp/elgamal",
+			"path": "golang.org/x/crypto/openpgp/elgamal",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "rlxVSaGgqdAgwblsErxTxIfuGfg=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp/errors",
+			"path": "golang.org/x/crypto/openpgp/errors",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "IjQVXdetvKXlSW2yZHDd2m1TSoo=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp/packet",
+			"path": "golang.org/x/crypto/openpgp/packet",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "sJspGhrr7TS9uMgyv2/cSfRDLV8=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/openpgp/s2k",
+			"path": "golang.org/x/crypto/openpgp/s2k",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "N5fb5y92DFIP+wUhi1rSwPp9vyk=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/crypto/ssh/terminal",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"origin": "github.com/containers/storage/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/context/ctxhttp",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "FxfWBLOCo13TUTVtGwdIku5aPpY=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/http2",
+			"path": "golang.org/x/net/http2",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "HzuGD7AwgC0p1az1WAQnEFnEk98=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/http2/hpack",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "Jl7gmISaLByuI4yXG4DpmeQIOL4=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/idna",
+			"path": "golang.org/x/net/idna",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/lex/httplex",
+			"path": "golang.org/x/net/lex/httplex",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "LvdVRE0FqdR68SvVpRkHs1rxhcA=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/net/proxy",
+			"path": "golang.org/x/net/proxy",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "QNmaUBWbxKsMzJJrOYeH/kt5mvU=",
+			"origin": "github.com/containers/storage/vendor/golang.org/x/sys/unix",
+			"path": "golang.org/x/sys/unix",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "gVfCD++7aVcdKF2spv6XkEM/wYw=",
+			"origin": "github.com/containers/storage/vendor/golang.org/x/sys/windows",
+			"path": "golang.org/x/sys/windows",
+			"revision": "ff8a6d2bf496daf46ab1a153f783a0f6b8762a54",
+			"revisionTime": "2018-03-23T13:38:04Z"
+		},
+		{
+			"checksumSHA1": "faFDXp++cLjLBlvsr+izZ+go1WU=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/text/secure/bidirule",
+			"path": "golang.org/x/text/secure/bidirule",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/text/transform",
+			"path": "golang.org/x/text/transform",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "REJSgeNasH6Uehc27Wmqo1F7P1M=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/text/unicode/bidi",
+			"path": "golang.org/x/text/unicode/bidi",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "ZKCa+wAQGqlSqljoSFqx9pOOaW8=",
+			"origin": "github.com/projectatomic/libpod/vendor/golang.org/x/text/unicode/norm",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "mj71zOfqkkSk7YwAQHY1AiiEUmU=",
+			"origin": "github.com/projectatomic/libpod/vendor/gopkg.in/cheggaaa/pb.v1",
+			"path": "gopkg.in/cheggaaa/pb.v1",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "fALlQNY1fM99NesfLJ50KguWsio=",
+			"origin": "github.com/projectatomic/libpod/vendor/gopkg.in/yaml.v2",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		},
+		{
+			"checksumSHA1": "WRb0rXGx56fwcCisVW7GoI6gO/A=",
+			"origin": "github.com/projectatomic/libpod/vendor/k8s.io/client-go/util/homedir",
+			"path": "k8s.io/client-go/util/homedir",
+			"revision": "6cf7ddbcfadc05a66d1efa929d4665ba36abde75",
+			"revisionTime": "2018-03-23T13:28:51Z"
+		}
+	],
+	"rootPath": "github.com/baude/imagelibraryexample"
+}
